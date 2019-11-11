@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GroupProjectFinal</string>
+
+    <string name="intro_text">To order items from this restaurant you will first be given a drink
+        menu and will order items from this list. Then you hit next to go to the kids menu and order
+        items here. You will do the same thing for the adult and dessert menu. Once you are done
+        with the dessert menu you will press the calculate bill button.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
